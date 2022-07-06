@@ -7,4 +7,4 @@
 #import packages
 #run the model for atleast 30 epocs
 #then run the main page
-#execute your thingd by uploading or inserting images in the web page
+#test your model by uploading or inserting images in the web page
